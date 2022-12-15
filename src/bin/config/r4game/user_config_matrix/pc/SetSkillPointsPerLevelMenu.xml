@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+	
+	<Group id="SetSkillPointsPerLevel" displayName="Mods.ssppl_SetSkillPointsPerLevel">
+		<VisibleVars>
+			<Var id="SetSkillPointsPerLevelSwitch" displayName="ssppl_Switch" displayType="TOGGLE"/>
+			<Var id="SetSkillPointsPerLevelValue" displayName="ssppl_Value" displayType="SLIDER;0;5;5"/>
+		</VisibleVars>
+	</Group>
+	
+</UserConfig>
