@@ -1,0 +1,5 @@
+id=981
+panel_Mods=Mods
+panel_ssppl_SetSkillPointsPerLevel=Set Skill Points Per Level
+option_ssppl_Switch=ON/OFF Switch
+option_ssppl_Value=Skill Points Per Level
